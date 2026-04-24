@@ -1,92 +1,134 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sreenandha</h1>
-<h3 align="center">Aspiring Data Analyst | Machine Learning Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+%26+Data+Visualization" />
+</p>
+
+<p align="center">
+  📍 Kerala, India &nbsp; | &nbsp;
+  📧 psreenandha24@gmail.com &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/sreenandha-pramod-6a161b383/">LinkedIn</a>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
-🔹 Passionate Data Analyst with strong interest in extracting insights from data  
-🔹 Skilled in Python, SQL, Power BI, Excel & Machine Learning  
-🔹 Experienced in EDA, Data Cleaning, Visualization & Model Building  
-🔹 Actively seeking Entry-Level Data Analyst opportunities  
+* Passionate and detail-oriented **Data Analyst**
+* Skilled in **Python, SQL, Excel, Power BI, and Machine Learning**
+* Experienced in **EDA, Data Cleaning, Visualization, and Model Building**
+* Building real-world analytics projects for business problem solving
+* Seeking **Entry-Level Data Analyst opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📊 Data Analysis & Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-darkblue?style=for-the-badge)
+### 🚀 Programming & Databases
 
-### 💻 Programming & Databases
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-### 🤖 Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/Numpy-darkblue?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 ---
 
-## 🚀 Projects
+### 📊 Data Analysis & Machine Learning
+
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/SEABORN-4C8CBF?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBOOST-FF4B4B?style=for-the-badge)
+
+---
+
+### 📈 Business Intelligence & Tools
+
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
 
 ### 🔭 Exoplanet Classification Project
-- Used Exploratory Data Analysis (EDA) and built a Machine Learning model to classify celestial objects as exoplanets or non-planets  
-- Cleaned and preprocessed dataset (missing values, duplicates, inconsistencies) using Python & Pandas  
-- Analyzed patterns and correlations using Matplotlib & Seaborn  
+
+* Built ML model to classify celestial objects as exoplanets or non-planets
+* Performed EDA, preprocessing, and feature analysis
+* Cleaned missing values, duplicates, and inconsistencies using Python & Pandas
 
 ---
 
-### 🧠 Mental Health Crisis Prediction (Non-Clinical Data)
-- Developed ML models using XGBoost & Gradient Boosting  
-- Performed preprocessing, encoding, and EDA  
-- Evaluated models using Accuracy, Precision, Recall, F1-score  
-- Improved performance using hyperparameter tuning  
+### 🧠 Mental Health Crisis Prediction
+
+* Developed ML models using XGBoost & Gradient Boosting
+* Performed preprocessing, encoding, and exploratory data analysis
+* Improved model performance using hyperparameter tuning
+* Evaluated using Accuracy, Precision, Recall, and F1-score
 
 ---
 
-### 🛒 BigBasket Product Analysis (Power BI)
-- Built interactive Power BI dashboard for pricing, discounts, and ratings  
-- Used Power Query for data cleaning and transformation  
-- Created KPIs, bar charts, and slicers for insights  
-- Identified trends in pricing, brand performance, and customer behavior  
+### 🛒 BigBasket Product Analysis
+
+* Built interactive Power BI dashboard for pricing, discounts, and ratings
+* Used Power Query for data cleaning and transformation
+* Created KPIs, slicers, and visual reports for business insights
+* Identified pricing trends, brand performance, and customer behavior
 
 ---
 
-## 📈 GitHub Stats
+## 📜 Certifications
+
+* Data Analytics Certification
+* Python for Data Science
+* SQL for Data Analysis
+* Power BI Dashboard Development
+
+---
+
+## 🌍 Languages
+
+English | Malayalam
+
+---
+
+## 🤝 Let's Connect
+
+If you're interested in **Data Analytics, Machine Learning, SQL, Excel, or Power BI**, let's collaborate and build impactful data projects 🚀
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
-📧 Email: psreenandha24@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sreenandha-pramod-6a161b383/   
+<p align="center">
+  <a href="https://www.linkedin.com/in/sreenandha-pramod-6a161b383/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:psreenandha24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-⭐️ *"Turning Data into Insights, Insights into Decisions"*<!--
-**Nandhana482/Nandhana482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **Transforming Raw Data into Meaningful Business Insights**
